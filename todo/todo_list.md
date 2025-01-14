@@ -1,4 +1,5 @@
 # Todos:
+- [ ] Improved Docker Image for server
 - [ ] Fix structure for game server
 - [ ] Update/Remove unnecessary client files
 - [ ] Establish modern uop version of verdata
