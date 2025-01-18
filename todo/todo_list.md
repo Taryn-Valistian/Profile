@@ -6,4 +6,5 @@
 - [ ] Update Client with Override so permanent client files can be consistent with a "patch/payload" file
 - [ ] Create Organizations and Repos for Archives
 - [ ] Update Archives
-- [ ] Restore Previous Projects
+- [X] Restore Previous Projects
+- [ ] Organize Client Patch
