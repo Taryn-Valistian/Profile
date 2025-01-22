@@ -9,5 +9,7 @@
 - [X] Restore Previous Projects
 - [ ] Organize Client Patch
 - [ ] Update old server from .net framework 4.6/4.8 to dotnet core
+- [ ] Create docker image using old server
+- [ ] Look into UORp shard
 - [ ] Try to utilize existing saves from old .net framework server
 - [ ] tbd
