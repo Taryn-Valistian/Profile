@@ -7,6 +7,7 @@
 - [ ] Create Organizations and Repos for Archives
 - [ ] Update Archives
 - [ ] Create Index for Archives
+- [ ] Create Organizations for Each Grouping of archives
 - [ ] Add Archival tools and notes to repo
 - [X] Restore Previous Projects
 - [ ] Organize Client Patch
