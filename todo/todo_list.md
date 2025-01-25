@@ -17,4 +17,4 @@
   - [ ] TDB
 - [ ] Look into UORp shard
 - [ ] Try to utilize existing saves from old .net framework server
-- [ ] tbd
+- [ ] TBD
