@@ -19,4 +19,4 @@
   - [ ] TDB
 - [ ] Look into UORp shard
 - [ ] Try to utilize existing saves from old .net framework server
-- [ ] TBD
+- [ ] Setup Github Actions for nightly builds
