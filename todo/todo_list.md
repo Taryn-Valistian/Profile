@@ -20,3 +20,5 @@
 - [ ] Look into UORp shard
 - [ ] Try to utilize existing saves from old .net framework server
 - [ ] Setup Github Actions for nightly builds
+- [X] Domain for Restored Shard
+- [X] Server for Restored Shard
